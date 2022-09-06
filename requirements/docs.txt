@@ -10,7 +10,7 @@ flask-sqlalchemy==2.4.4   # via -r requirements/docs.in
 flask==1.1.2              # via -r requirements/docs.in, flask-sqlalchemy
 itsdangerous==1.1.0       # via flask
 jinja2==2.11.2            # via flask
-mako==1.1.4               # via alembic
+mako==1.2.2               # via alembic
 markupsafe==1.1.1         # via jinja2, mako
 psutil==5.7.3             # via -r requirements/docs.in
 python-dateutil==2.8.1    # via alembic
