@@ -63,7 +63,7 @@ typing-extensions==3.7.4.3  # via black
 urllib3==1.26.2           # via requests
 virtualenv==20.1.0        # via pre-commit
 webencodings==0.5.1       # via bleach
-werkzeug==1.0.1           # via flask
+werkzeug==3.0.1           # via flask
 wheel==0.35.1             # via -r requirements/dev.in
 
 # The following packages are considered to be unsafe in a requirements file:
