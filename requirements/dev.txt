@@ -17,7 +17,7 @@ click==7.1.2              # via black, flask, pip-tools
 codespell==1.17.1         # via -r requirements/dev.in
 distlib==0.3.1            # via virtualenv
 docutils==0.16            # via readme-renderer
-filelock==3.0.12          # via virtualenv
+filelock==3.20.3          # via virtualenv
 flake8==3.8.4             # via -r requirements/dev.in
 flask-sqlalchemy==2.4.4   # via -r requirements/docs.in, -r requirements/tests.in
 flask==1.1.2              # via -r requirements/docs.in, -r requirements/tests.in, flask-sqlalchemy
@@ -60,10 +60,10 @@ tqdm==4.51.0              # via twine
 twine==1.15.0             # via -r requirements/dev.in
 typed-ast==1.4.1          # via black
 typing-extensions==3.7.4.3  # via black
-urllib3==1.26.2           # via requests
+urllib3==2.6.3           # via requests
 virtualenv==20.1.0        # via pre-commit
 webencodings==0.5.1       # via bleach
-werkzeug==1.0.1           # via flask
+werkzeug==3.1.5           # via flask
 wheel==0.35.1             # via -r requirements/dev.in
 
 # The following packages are considered to be unsafe in a requirements file:
